@@ -45,7 +45,9 @@ p:not(#NoEsteP, #puesto_parrafo){
     padding: 5px;
 }
 
+
 /**lugar de trabajo**/
+
 
 .contenedor_lugar_de_trabajo{
     display: flex;
@@ -53,6 +55,9 @@ p:not(#NoEsteP, #puesto_parrafo){
 }
 .contenedor_lugar_de_trabajo img{
     width: 400px;
+}
+.lugar_de_trabajo h2{
+    color: #FFD700;
 }
 /**sector detrabajo**/
 
@@ -87,6 +92,9 @@ em.destacado{
 }
 .glosario_article p{
     margin-bottom: 35px;
+}
+.glosario h2{
+    color: #FFD700;
 }
 
 
